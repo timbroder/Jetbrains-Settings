@@ -202,7 +202,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/amatch/0.4.0" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/lib" />
@@ -210,7 +209,6 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/images" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/amatch/0.4.0" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/amatch-0.4.0/lib" />
@@ -2280,13 +2278,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.11" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.11" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/bcrypt-3.1.11/spec" />
@@ -3698,13 +3694,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/geoip2_compat/0.0.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/geoip2_compat/0.0.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geoip2_compat-0.0.3/test" />
@@ -3719,14 +3713,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/geokdtree/0.2.0" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/spec" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/geokdtree/0.2.0" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/geokdtree-0.2.0/spec" />
@@ -4128,7 +4120,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/data" />
@@ -4138,7 +4129,6 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-1.8.6/data" />
