@@ -788,6 +788,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-11.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake (v9.4.4, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-9.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-9.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake-ruby (v4.14.1, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -818,6 +829,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/airbrake-ruby-4.14.1/spec" />
+      </excluded>
+    </library>
+    <library name="airbrake-ruby (v4.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-ruby-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-ruby-4.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-ruby-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-ruby-4.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/airbrake-ruby-4.6.0/spec" />
       </excluded>
     </library>
     <library name="airbrake-ruby (v5.2.0, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -20531,6 +20558,13 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rbovirt-0.1.7/spec" />
       </excluded>
     </library>
+    <library name="rbtree3 (v0.5.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rbtree3 (v0.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21636,6 +21670,27 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
+    </library>
+    <library name="ruby-saml-idp (v0.3.2@864074, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/ruby-saml-idp-864074f4e7e8/spec" />
+      </excluded>
     </library>
     <library name="ruby-vips (v2.0.17, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
