@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
