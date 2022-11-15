@@ -15,7 +15,7 @@
     <mask>*.haml</mask>
     <mask>*.html.erb</mask>
     <mask>*.rake</mask>
-    <mask>*.jsx</mask>
     <mask>*.rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
