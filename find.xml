@@ -14,8 +14,8 @@
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.haml</mask>
+    <mask>*.rake</mask>
     <mask>*.html.erb</mask>
     <mask>*.rb</mask>
-    <mask>*.rake</mask>
   </component>
 </application>
