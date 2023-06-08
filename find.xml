@@ -13,10 +13,10 @@
     <mask>*.gemspec</mask>
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
-    <mask>*.haml</mask>
     <mask>*.js</mask>
     <mask>*.rake</mask>
     <mask>*.rb</mask>
     <mask>*.html.erb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
