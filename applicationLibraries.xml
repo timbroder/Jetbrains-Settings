@@ -3867,6 +3867,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.12/exto" />
       </excluded>
     </library>
+    <library name="debase (v2.3.13, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.13/exto" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.13/exto" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.13/exto" />
+      </excluded>
+    </library>
     <library name="debase (v2.3.8, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3918,6 +3935,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-3.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v3.3.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-3.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-3.3.1/lib" />
       </SOURCES>
     </library>
     <library name="declarative (v0.0.10, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -8174,6 +8203,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.17/bin" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v2.3.18, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.18/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.18/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.18/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.18/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.18/bin" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v2.3.8, rbenv: 2.6.7) [gem]" type="rubylib">
