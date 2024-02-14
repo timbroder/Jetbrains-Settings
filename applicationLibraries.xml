@@ -6338,6 +6338,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.22.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.22.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.22.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.22.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.22.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.22.2/test" />
+      </excluded>
+    </library>
     <library name="mize (v0.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7373,6 +7390,32 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rainbow-3.1.1/lib" />
       </SOURCES>
+    </library>
+    <library name="rake (v10.5.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-10.5.0/rakelib" />
+      </excluded>
     </library>
     <library name="rake (v12.3.3, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
