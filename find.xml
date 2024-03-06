@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rake" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,10 +14,10 @@
     <mask>*.gemspec</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.rake</mask>
     <mask>*.html.erb</mask>
     <mask>*.jsx</mask>
     <mask>*.haml</mask>
     <mask>*.rb</mask>
+    <mask>*.rake</mask>
   </component>
 </application>
