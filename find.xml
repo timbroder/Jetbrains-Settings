@@ -14,11 +14,11 @@
     <mask>*.jbuilder</mask>
     <mask>*.gemspec</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.rake</mask>
     <mask>*.jsx</mask>
     <mask>*.haml</mask>
     <mask>*.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
