@@ -7339,6 +7339,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rack-cors-1.1.1/test" />
       </excluded>
     </library>
+    <library name="rack-mini-profiler (v3.1.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rack-mini-profiler-3.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rack-mini-profiler-3.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8593,6 +8605,34 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/script" />
+      </excluded>
+    </library>
+    <library name="scout_apm (v5.3.8, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/gems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/gems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/gems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/scout_apm-5.3.8/.github" />
       </excluded>
     </library>
     <library name="sdoc (v1.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
