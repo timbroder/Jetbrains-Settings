@@ -340,6 +340,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-13.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake (v13.0.4, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-13.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-13.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake-ruby (v6.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -350,6 +362,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-ruby-6.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="airbrake-ruby (v6.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-ruby-6.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/airbrake-ruby-6.2.2/lib" />
       </SOURCES>
     </library>
     <library name="amatch (v0.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -7641,6 +7665,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbtree3-0.7.0" />
       </SOURCES>
+    </library>
+    <library name="rbtree3 (v0.7.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbtree3-0.7.1/.gem.20240404-8888-15dolg0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbtree3-0.7.1/.gem.20240404-8888-15dolg0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbtree3-0.7.1" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbtree3-0.7.1/.gem.20240404-8888-15dolg0" />
+      </excluded>
     </library>
     <library name="rbvmomi (v2.4.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
