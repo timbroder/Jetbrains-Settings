@@ -3,11 +3,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ruby">
-        <configuration>
-          <option name="verboseOutput" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
