@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,7 @@
     <mask>*.rake</mask>
     <mask>*.haml</mask>
     <mask>*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*.rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
