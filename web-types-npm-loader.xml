@@ -1,5 +1,5 @@
 <application>
-  <component name="WebTypesNpmLoader" timestamp="1714665310045">
+  <component name="WebTypesNpmLoader" timestamp="1714999942403">
     <package name="@web-types/lit">
       <version value="2.0.0-3" url="https://registry.npmjs.org/@web-types/lit/-/lit-2.0.0-3.tgz" />
     </package>
