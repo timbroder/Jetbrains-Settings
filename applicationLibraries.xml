@@ -35052,6 +35052,54 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/signet-0.14.0/website" />
       </excluded>
     </library>
+    <library name="simpleidn (v0.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Morten M\u00F8ller Riis&quot;.freeze" />
+            <option name="email" value="&quot;mortenmoellerriis _AT_ gmail.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/mmriis/simpleidn" />
+            <option name="summary" value="Punycode ACE to unicode UTF-8 (and vice-versa) string conversion." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.1.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="unf" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="simpleidn" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2" />
+        <option name="version" value="0.2.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2/tables" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2/tables" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/simpleidn-0.2.2/tables" />
+      </excluded>
+    </library>
     <library name="sitemap_generator (v6.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -37041,6 +37089,86 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/uuid-2.3.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/uuid-2.3.9/test" />
+      </excluded>
+    </library>
+    <library name="validates_email_format_of (v1.8.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="Alex Dunae, Isaac Betesh" />
+            <option name="email" value="code@dunae.ca, iybetesh@gmail.com" />
+            <option name="homepage" value="https://github.com/validates-email-format-of/validates_email_format_of" />
+            <option name="summary" value="Validate email addresses against RFC 2822 and RFC 3696." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="0.7.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="i18n" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.8.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="i18n" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="simpleidn" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="validates_email_format_of" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2" />
+        <option name="version" value="1.8.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/validates_email_format_of-1.8.2/gemfiles" />
       </excluded>
     </library>
     <library name="vault (v0.14.0, rbenv: 2.6.7) [gem]" type="rubylib">
