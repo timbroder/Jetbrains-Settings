@@ -32350,6 +32350,54 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.5/doc" />
       </excluded>
     </library>
+    <library name="rexml (v3.2.8, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Kouhei Sutou&quot;.freeze" />
+            <option name="email" value="&quot;kou@cozmixng.org&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/rexml" />
+            <option name="summary" value="An XML toolkit for Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="3.0.9" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="strscan" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="rexml" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8" />
+        <option name="version" value="3.2.8" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/doc" />
+      </excluded>
+    </library>
     <library name="roadie (v3.5.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -35890,6 +35938,38 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/stripe-ruby-mock-b8b211c2c697/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/stripe-ruby-mock-b8b211c2c697/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/stripe-ruby-mock-b8b211c2c697/spec" />
+      </excluded>
+    </library>
+    <library name="strscan (v3.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Minero Aoki&quot;.freeze, &quot;Sutou Kouhei&quot;.freeze, &quot;Charles Oliver Nutter&quot;.freeze" />
+            <option name="email" value="nil, &quot;kou@cozmixng.org&quot;.freeze, &quot;headius@headius.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/strscan" />
+            <option name="summary" value="Provides lexical scanning operations on a String." />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="strscan" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0" />
+        <option name="version" value="3.1.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/ext" />
       </excluded>
     </library>
     <library name="systemu (v2.6.5, rbenv: 2.6.7) [gem]" type="rubylib">
