@@ -218,6 +218,184 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-5.2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Pratik Naik&quot;.freeze, &quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="&quot;pratiknaik@gmail.com&quot;.freeze, &quot;david@loudthinking.com&quot;.freeze" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="WebSocket framework for Rails." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="nio4r" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="websocket-driver" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actioncable" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actioncable-6.0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailbox (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze, &quot;George Claghorn&quot;.freeze" />
+            <option name="email" value="&quot;david@loudthinking.com&quot;.freeze, &quot;george@basecamp.com&quot;.freeze" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Inbound email handling framework." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activestorage" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activejob" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.7.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="mail" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actionmailbox" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.6.1/config" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -406,6 +584,101 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailer-5.2.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Email composition and delivery framework (part of Rails)." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionview" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activejob" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.5" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.5.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="mail" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-dom-testing" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actionmailer" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailer-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailer-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionmailer-6.0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -626,6 +899,212 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionpack-5.2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Web-flow and rendering framework putting the VC in MVC (part of Rails)." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.0.8" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.6.3" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rack-test" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-html-sanitizer" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-dom-testing" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionview" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actionpack" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionpack-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionpack-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionpack-6.0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actiontext (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Javan Makhmali&quot;.freeze, &quot;Sam Stephenson&quot;.freeze, &quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="&quot;javan@javan.us&quot;.freeze, &quot;sstephenson@gmail.com&quot;.freeze, &quot;david@loudthinking.com&quot;.freeze" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Rich text framework." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activestorage" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.8.5" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="nokogiri" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actiontext" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actiontext-6.0.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -814,6 +1293,101 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionview-5.2.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Rendering framework putting the V in MVC (part of Rails)." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="builder" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="erubi" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-html-sanitizer" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-dom-testing" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="actionview" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionview-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionview-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/actionview-6.0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="active_admin_paranoia (v1.0.11, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -1430,6 +2004,61 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activejob-5.2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Job framework with pluggable queues." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.3.6" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="globalid" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activejob" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activejob-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activejob-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activejob-6.0.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -1514,6 +2143,49 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activemodel-5.2.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="A toolkit for building modeling frameworks (part of Rails)." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activemodel" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activemodel-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activemodel-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activemodel-6.0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -1660,6 +2332,66 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-5.2.8.1/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Object-relational mapper framework (part of Rails)." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activemodel" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activerecord" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activerecord-6.0.6.1/examples" />
+      </excluded>
+    </library>
     <library name="activerecord-import (v1.0.7, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -1785,6 +2517,91 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-5.2.8.1/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-5.2.8.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-5.2.8.1/config" />
+      </SOURCES>
+    </library>
+    <library name="activestorage (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Local and cloud file storage framework." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activejob" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="marcel" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activestorage" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activestorage-6.0.6.1/config" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -1959,6 +2776,109 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activesupport-5.2.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="A toolkit of support libraries and Ruby core extensions extracted from the Rails framework." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.7" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="i18n" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="tzinfo" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="5.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="minitest" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.0.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="concurrent-ruby" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="zeitwerk" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activesupport" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activesupport-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activesupport-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activesupport-6.0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="acts-as-taggable-on (v6.5.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -20055,6 +20975,60 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-11.0.3/scripts" />
       </excluded>
     </library>
+    <library name="composite_primary_keys (v12.0.10, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Charlie Savage&quot;.freeze" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="https://github.com/composite-primary-keys/composite_primary_keys" />
+            <option name="summary" value="Composite key support for ActiveRecord" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="6.0.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="composite_primary_keys" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10" />
+        <option name="version" value="12.0.10" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/scripts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/scripts" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/composite_primary_keys-12.0.10/scripts" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.6, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -32187,6 +33161,201 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="rails (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Full-stack web application framework." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionview" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activemodel" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionmailer" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activejob" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actioncable" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activestorage" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionmailbox" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actiontext" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.3.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="bundler" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.0.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="sprockets-rails" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="rails" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rails-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rails-controller-testing (v1.0.5, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -32689,6 +33858,106 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-5.2.8.1/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.0.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;David Heinemeier Hansson&quot;.freeze" />
+            <option name="email" value="david@loudthinking.com" />
+            <option name="homepage" value="https://rubyonrails.org" />
+            <option name="summary" value="Tools for creating, working with, and running Rails applications." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="6.0.6.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.8.7" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rake" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.20.3" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="thor" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="method_source" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="railties" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1" />
+        <option name="version" value="6.0.6.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/railties-6.0.6.1/exe" />
       </excluded>
     </library>
     <library name="rainbow (v3.1.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -36715,6 +37984,109 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sass-rails-5.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;wycats&quot;.freeze, &quot;chriseppstein&quot;.freeze" />
+            <option name="email" value="&quot;wycats@gmail.com&quot;.freeze, &quot;chris@eppsteins.net&quot;.freeze" />
+            <option name="homepage" value="https://github.com/rails/sass-rails" />
+            <option name="summary" value="Sass adapter for the Rails asset pipeline." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="sass" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="4.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="sprockets-rails" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.8" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="4.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="sprockets" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="3" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="tilt" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="sass-rails" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sass-rails-5.1.0" />
+        <option name="version" value="5.1.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sass-rails-5.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sass-rails-5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="sassc (v2.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -41005,6 +42377,33 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/xpath-3.2.0/spec" />
       </excluded>
+    </library>
+    <library name="zeitwerk (v2.6.15, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Xavier Noria&quot;.freeze" />
+            <option name="email" value="fxn@hashref.com" />
+            <option name="homepage" value="https://github.com/fxn/zeitwerk" />
+            <option name="summary" value="Efficient and thread-safe constant autoloader" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="zeitwerk" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/zeitwerk-2.6.15" />
+        <option name="version" value="2.6.15" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/zeitwerk-2.6.15/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/zeitwerk-2.6.15/lib" />
+      </SOURCES>
     </library>
     <library name="zeitwerk (v2.6.4, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
