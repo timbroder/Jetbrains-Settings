@@ -19919,6 +19919,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/spec" />
       </excluded>
     </library>
+    <library name="benchmark (v0.1.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This benchmark is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="benchmark" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/benchmark" />
+        <option name="version" value="0.1.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bigdecimal (v1.4.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -19937,6 +19960,29 @@
         </option>
         <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/bigdecimal" />
         <option name="version" value="1.4.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bigdecimal (v3.0.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This bigdecimal is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="bigdecimal" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bigdecimal" />
+        <option name="version" value="3.0.0" />
       </properties>
       <CLASSES />
       <JAVADOC />
@@ -20282,6 +20328,68 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rubygems-update-3.2.3/bundler/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rubygems-update-3.2.3/bundler/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.2.33, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This bundler is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="bundler" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler" />
+        <option name="version" value="2.2.33" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/compact_index_client" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/bundler/compact_index_client" />
       </excluded>
     </library>
     <library name="bundler (v2.4.3, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -20661,6 +20769,36 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/spec" />
+      </excluded>
+    </library>
+    <library name="cgi (v0.2.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This cgi is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="cgi" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/cgi" />
+        <option name="version" value="0.2.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/cgi/session" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/cgi/session" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/cgi/session" />
       </excluded>
     </library>
     <library name="childprocess (v4.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -21313,6 +21451,36 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/csv/core_ext" />
+      </excluded>
+    </library>
+    <library name="csv (v3.1.9, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This csv is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="csv" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/csv" />
+        <option name="version" value="3.1.9" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/csv/core_ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/csv/core_ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/csv/core_ext" />
       </excluded>
     </library>
     <library name="cypress-on-rails (v1.10.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -22497,6 +22665,42 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
       </excluded>
     </library>
+    <library name="did_you_mean (v1.5.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This did_you_mean is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="did_you_mean" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean" />
+        <option name="version" value="1.5.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
     <library name="diff-lcs (v1.4.4, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -22537,6 +22741,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/diff-lcs-1.4.4/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/diff-lcs-1.4.4/autotest" />
       </excluded>
+    </library>
+    <library name="digest (v3.0.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This digest is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="digest" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/digest" />
+        <option name="version" value="3.0.0" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="domain_name (v0.5.20190701, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -22811,6 +23038,29 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/dotenv-rails-2.8.1/lib" />
       </SOURCES>
+    </library>
+    <library name="drb (v2.0.5, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This drb is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="drb" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/drb" />
+        <option name="version" value="2.0.5" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="dry-inflector (v0.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -23525,6 +23775,29 @@
         </option>
         <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/fiddle" />
         <option name="version" value="1.0.0" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.8, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This fiddle is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="fiddle" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/fiddle" />
+        <option name="version" value="1.0.8" />
       </properties>
       <CLASSES />
       <JAVADOC />
@@ -26693,6 +26966,29 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="forwardable (v1.3.2, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This forwardable is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="forwardable" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/forwardable" />
+        <option name="version" value="1.3.2" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="fountain (v0.0.16, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -28073,6 +28369,29 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="io-console (v0.5.7, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This io-console is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="io-console" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/io/console" />
+        <option name="version" value="0.5.7" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="ipaddress (v0.8.3, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -28139,6 +28458,42 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/irb/lc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/irb/cmd" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/irb/ext" />
+      </excluded>
+    </library>
+    <library name="irb (v1.3.5, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This irb is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="irb" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb" />
+        <option name="version" value="1.3.5" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/irb/ext" />
       </excluded>
     </library>
     <library name="iterable-api-client (v0.3.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -28469,6 +28824,36 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/json-2.3.0/tools" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/json-2.3.0/diagrams" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/json-2.3.0/references" />
+      </excluded>
+    </library>
+    <library name="json (v2.5.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This json is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="json" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/json" />
+        <option name="version" value="2.5.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/json/add" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/json/add" />
       </excluded>
     </library>
     <library name="jwt (v1.5.6, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -29061,6 +29446,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/loggability-0.18.2/spec" />
       </excluded>
     </library>
+    <library name="logger (v1.4.3, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This logger is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="logger" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/logger" />
+        <option name="version" value="1.4.3" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="loofah (v2.22.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -29471,6 +29879,29 @@
         </option>
         <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/matrix" />
         <option name="version" value="0.1.0" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="matrix (v0.3.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This matrix is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="matrix" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/matrix" />
+        <option name="version" value="0.3.1" />
       </properties>
       <CLASSES />
       <JAVADOC />
@@ -29907,6 +30338,38 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.14.2, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Ryan Davis&quot;.freeze" />
+            <option name="email" value="&quot;ryand-ruby@zenspider.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/seattlerb/minitest" />
+            <option name="summary" value="minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="minitest" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2" />
+        <option name="version" value="5.14.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.22.2, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -30205,6 +30668,29 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/nap-1.1.0/support" />
       </excluded>
+    </library>
+    <library name="net-http (v0.1.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This net-http is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="net-http" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/net/http" />
+        <option name="version" value="0.1.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="net-telnet (v0.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -31069,6 +31555,29 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="openssl (v2.2.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This openssl is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="openssl" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/openssl" />
+        <option name="version" value="2.2.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="openssl (v3.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -31167,6 +31676,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/options-2.3.2/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/options-2.3.2/samples" />
       </excluded>
+    </library>
+    <library name="optparse (v0.1.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This optparse is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="optparse" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/optparse" />
+        <option name="version" value="0.1.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="os (v1.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -32006,6 +32538,38 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
       </excluded>
     </library>
+    <library name="power_assert (v1.2.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Kazuki Tsujimoto&quot;.freeze" />
+            <option name="email" value="&quot;kazuki@callcc.net&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/power_assert" />
+            <option name="summary" value="Power Assert for Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="power_assert" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0" />
+        <option name="version" value="1.2.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/bin" />
+      </excluded>
+    </library>
     <library name="progress_bar (v1.3.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -32287,6 +32851,45 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
     </library>
+    <library name="psych (v3.3.2, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This psych is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="psych" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych" />
+        <option name="version" value="3.3.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/visitors" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/psych/visitors" />
+      </excluded>
+    </library>
     <library name="public_suffix (v4.0.5, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -32466,6 +33069,29 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/pundit-2.3.0/spec" />
       </excluded>
+    </library>
+    <library name="racc (v1.5.2, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This racc is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="racc" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/racc" />
+        <option name="version" value="1.5.2" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="racc (v1.7.3, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -34167,6 +34793,44 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
+    <library name="rake (v13.0.3, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Hiroshi SHIBATA&quot;.freeze, &quot;Eric Hodel&quot;.freeze, &quot;Jim Weirich&quot;.freeze" />
+            <option name="email" value="&quot;hsbt@ruby-lang.org&quot;.freeze, &quot;drbrain@segment7.net&quot;.freeze, &quot;&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/rake" />
+            <option name="summary" value="Rake is a Make-like program implemented in Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="rake" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3" />
+        <option name="version" value="13.0.3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rake-13.0.3/exe" />
+      </excluded>
+    </library>
     <library name="rake (v13.2.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -34533,6 +35197,53 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rbovirt-0.1.7/spec" />
       </excluded>
     </library>
+    <library name="rbs (v1.4.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Soutaro Matsumoto&quot;.freeze" />
+            <option name="email" value="&quot;matsumoto@soutaro.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/rbs" />
+            <option name="summary" value="Type signature for Ruby." />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="rbs" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0" />
+        <option name="version" value="1.4.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/sig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/steep" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/schema" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/sig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/steep" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/schema" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/stdlib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/steep" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rbs-1.4.0/schema" />
+      </excluded>
+    </library>
     <library name="rbtree3 (v0.7.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -34787,6 +35498,60 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rdoc-6.2.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rdoc-6.2.1/exe" />
+      </excluded>
+    </library>
+    <library name="rdoc (v6.3.3, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This rdoc is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="rdoc" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc" />
+        <option name="version" value="6.3.3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/generator" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rdoc/generator" />
       </excluded>
     </library>
     <library name="react-rails (v2.6.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -35424,6 +36189,39 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/regexp_parser-2.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="reline (v0.2.5, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This reline is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="reline" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline" />
+        <option name="version" value="0.2.5" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/key_actor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/key_actor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/reline/key_actor" />
+      </excluded>
+    </library>
     <library name="representable (v3.0.4, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -35820,6 +36618,38 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.5/doc" />
       </excluded>
     </library>
+    <library name="rexml (v3.2.5, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Kouhei Sutou&quot;.freeze" />
+            <option name="email" value="&quot;kou@cozmixng.org&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/rexml" />
+            <option name="summary" value="An XML toolkit for Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="rexml" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5" />
+        <option name="version" value="3.2.5" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rexml-3.2.5/doc" />
+      </excluded>
+    </library>
     <library name="rexml (v3.2.8, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -35867,6 +36697,29 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/rexml-3.2.8/doc" />
       </excluded>
+    </library>
+    <library name="rinda (v0.1.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This rinda is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="rinda" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/rinda" />
+        <option name="version" value="0.1.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="roadie (v3.5.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -36492,6 +37345,54 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/rss/maker" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/rss/content" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/2.6.0/rss/dublincore" />
+      </excluded>
+    </library>
+    <library name="rss (v0.2.9, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Kouhei Sutou&quot;.freeze" />
+            <option name="email" value="&quot;kou@cozmixng.org&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/rss" />
+            <option name="summary" value="Family of libraries that support various formats of XML \&quot;feeds\&quot;." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rexml" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="rss" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9" />
+        <option name="version" value="0.2.9" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/rss-0.2.9/test" />
       </excluded>
     </library>
     <library name="rubocop (v1.28.2, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -38836,6 +39737,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="set (v1.0.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This set is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="set" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/set" />
+        <option name="version" value="1.0.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="sexp_processor (v4.14.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -40271,6 +41195,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/strscan-3.1.0/ext" />
       </excluded>
     </library>
+    <library name="syslog (v0.1.0, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This syslog is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="syslog" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/syslog" />
+        <option name="version" value="0.1.0" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="systemu (v2.6.5, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -40445,6 +41392,60 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
+      </excluded>
+    </library>
+    <library name="test-unit (v3.3.7, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Kouhei Sutou&quot;.freeze, &quot;Haruka Yoshihara&quot;.freeze" />
+            <option name="email" value="&quot;kou@cozmixng.org&quot;.freeze, &quot;yoshihara@clear-code.com&quot;.freeze" />
+            <option name="homepage" value="http://test-unit.github.io/" />
+            <option name="summary" value="An xUnit family unit testing framework for Ruby." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="power_assert" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="test-unit" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7" />
+        <option name="version" value="3.3.7" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/test-unit-3.3.7/sample" />
       </excluded>
     </library>
     <library name="thin (v1.8.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -41142,6 +42143,66 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/twilio-ruby-6.9.1/advanced-examples" />
       </excluded>
     </library>
+    <library name="typeprof (v0.15.2, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Yusuke Endoh&quot;.freeze" />
+            <option name="email" value="&quot;mame@ruby-lang.org&quot;.freeze" />
+            <option name="homepage" value="https://github.com/ruby/typeprof" />
+            <option name="summary" value="TypeProf is a type analysis tool for Ruby code based on abstract interpretation" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rbs" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="typeprof" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2" />
+        <option name="version" value="0.15.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/smoke" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/testbed" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/smoke" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/testbed" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/smoke" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/typeprof-0.15.2/testbed" />
+      </excluded>
+    </library>
     <library name="typhoeus (v1.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -41562,6 +42623,29 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.5.0/data" />
       </excluded>
+    </library>
+    <library name="uri (v0.10.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This uri is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="uri" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/uri" />
+        <option name="version" value="0.10.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="uuid (v2.3.9, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -42606,6 +43690,29 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/xpath-3.2.0/spec" />
       </excluded>
+    </library>
+    <library name="yaml (v0.1.1, rbenv: 3.0.4) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="N/A" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="N/A" />
+            <option name="summary" value="This yaml is bundled with Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="yaml" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/3.0.0/yaml" />
+        <option name="version" value="0.1.1" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="zeitwerk (v2.6.15, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
