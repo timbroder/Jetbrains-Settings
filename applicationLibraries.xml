@@ -1630,6 +1630,164 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/active_material-1.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v2.12.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Charles Maresh&quot;.freeze, &quot;David Rodr\u00EDguez&quot;.freeze, &quot;Greg Bell&quot;.freeze, &quot;Igor Fedoronchuk&quot;.freeze, &quot;Javier Julio&quot;.freeze, &quot;Piers C&quot;.freeze, &quot;Sean Linsley&quot;.freeze, &quot;Timo Schilling&quot;.freeze" />
+            <option name="email" value="&quot;deivid.rodriguez@riseup.net&quot;.freeze" />
+            <option name="homepage" value="https://activeadmin.info" />
+            <option name="summary" value="Active Admin is a Ruby on Rails plugin for generating administration style interfaces. It abstracts common business application patterns to make it simple for developers to implement beautiful and elegant interfaces with very little effort." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.2.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="arbre" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="5.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="formtastic" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="formtastic_i18n" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.7" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="inherited_resources" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="4.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="jquery-rails" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.2.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="6.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="7.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2.1.1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="ransack" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activeadmin" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0" />
+        <option name="version" value="2.12.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin-2.12.0/docs" />
+      </excluded>
+    </library>
     <library name="activeadmin (v2.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -1978,6 +2136,51 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-0.2.12/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-0.2.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="activeadmin_trumbowyg (v1.0.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Mattia Roccoberton&quot;.freeze" />
+            <option name="email" value="mat@blocknot.es" />
+            <option name="homepage" value="https://github.com/blocknotes/activeadmin_trumbowyg" />
+            <option name="summary" value="Trumbowyg Editor for ActiveAdmin" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activeadmin" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="activeadmin_trumbowyg" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-1.0.0" />
+        <option name="version" value="1.0.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/activeadmin_trumbowyg-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.1.7, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -3170,6 +3373,63 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-6.5.0/gemfiles" />
       </excluded>
     </library>
+    <library name="acts-as-taggable-on (v7.0.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Michael Bleigh&quot;.freeze, &quot;Joost Baaij&quot;.freeze" />
+            <option name="email" value="&quot;michael@intridea.com&quot;.freeze, &quot;joost@spacebabies.nl&quot;.freeze" />
+            <option name="homepage" value="https://github.com/mbleigh/acts-as-taggable-on" />
+            <option name="summary" value="Advanced tagging for Rails." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="6.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="acts-as-taggable-on" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0" />
+        <option name="version" value="7.0.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/acts-as-taggable-on-7.0.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="acts_as_votable (v0.14.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -3927,6 +4187,74 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/arbre-1.4.0/docs" />
+      </excluded>
+    </library>
+    <library name="arbre (v1.5.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Greg Bell&quot;.freeze" />
+            <option name="email" value="&quot;gregdbell@gmail.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/activeadmin/arbre" />
+            <option name="summary" value="An Object Oriented DOM Tree in Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="3.0.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="7.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.0.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="ruby2_keywords" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="arbre" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0" />
+        <option name="version" value="1.5.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0/docs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/arbre-1.5.0/docs" />
       </excluded>
     </library>
     <library name="arel (v8.0.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -34438,6 +34766,41 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/brakeman-4.8.2/bundle" />
       </excluded>
     </library>
+    <library name="brakeman (v5.4.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Justin Collins&quot;.freeze" />
+            <option name="email" value="gem@brakeman.org" />
+            <option name="homepage" value="https://brakemanscanner.org" />
+            <option name="summary" value="Security vulnerability scanner for Ruby on Rails." />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="brakeman" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1" />
+        <option name="version" value="5.4.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bundle" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bundle" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/brakeman-5.4.1/bundle" />
+      </excluded>
+    </library>
     <library name="browser (v4.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -38935,6 +39298,33 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.9.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Sam Stephenson&quot;.freeze, &quot;Josh Peek&quot;.freeze" />
+            <option name="email" value="&quot;sstephenson@gmail.com&quot;.freeze, &quot;josh@joshpeek.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/rails/execjs" />
+            <option name="summary" value="Run JavaScript code from Ruby" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="execjs" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/execjs-2.9.1" />
+        <option name="version" value="2.9.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/execjs-2.9.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/execjs-2.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v6.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -39545,6 +39935,43 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.16.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.16.3/rakelib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.16.3/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.17.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Wayne Meissner&quot;.freeze" />
+            <option name="email" value="wmeissner@gmail.com" />
+            <option name="homepage" value="https://github.com/ffi/ffi/wiki" />
+            <option name="summary" value="Ruby FFI" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="ffi" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin" />
+        <option name="version" value="1.17.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/sig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/sig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ffi-1.17.0-arm64-darwin/samples" />
       </excluded>
     </library>
     <library name="ffi-compiler (v1.0.1, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -42908,6 +43335,71 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-3.1.5/gemfiles" />
       </excluded>
     </library>
+    <library name="formtastic (v4.0.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Justin French&quot;.freeze" />
+            <option name="email" value="&quot;justin@indent.com.au&quot;.freeze" />
+            <option name="homepage" value="http://github.com/formtastic/formtastic" />
+            <option name="summary" value="A Rails form builder plugin/gem with semantically rich and accessible markup" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="formtastic" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0" />
+        <option name="version" value="4.0.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic-4.0.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="formtastic_i18n (v0.6.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -42964,6 +43456,35 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/formtastic_i18n-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/formtastic_i18n-0.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.7.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Timo Schilling&quot;.freeze" />
+            <option name="email" value="&quot;timo@schilling.io&quot;.freeze" />
+            <option name="homepage" value="https://github.com/timoschilling/formtastic_i18n" />
+            <option name="summary" value="I18n translation for the formtastic gem" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="formtastic_i18n" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic_i18n-0.7.0" />
+        <option name="version" value="0.7.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic_i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic_i18n-0.7.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic_i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/formtastic_i18n-0.7.0/config" />
       </SOURCES>
     </library>
     <library name="forwardable (v1.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -43096,6 +43617,63 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.2.5/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.2.5/gemfiles" />
+      </excluded>
+    </library>
+    <library name="friendly_id (v5.4.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Norman Clarke&quot;.freeze, &quot;Philip Arndt&quot;.freeze" />
+            <option name="email" value="&quot;norman@njclarke.com&quot;.freeze, &quot;p@arndt.io&quot;.freeze" />
+            <option name="homepage" value="https://github.com/norman/friendly_id" />
+            <option name="summary" value="A comprehensive slugging and pretty-URL plugin." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="4.0.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="friendly_id" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2" />
+        <option name="version" value="5.4.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/friendly_id-5.4.2/gemfiles" />
       </excluded>
     </library>
     <library name="fuzzy_match (v2.1.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -44171,6 +44749,61 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/has_scope-0.7.2/test" />
       </excluded>
     </library>
+    <library name="has_scope (v0.8.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Jos\u00E9 Valim&quot;.freeze" />
+            <option name="email" value="opensource@plataformatec.com.br" />
+            <option name="homepage" value="http://github.com/plataformatec/has_scope" />
+            <option name="summary" value="Maps controller filters to your resource scopes." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="has_scope" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/has_scope-0.8.2" />
+        <option name="version" value="0.8.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/has_scope-0.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/has_scope-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="hash_diff (v1.1.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -44902,6 +45535,99 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="inherited_resources (v1.13.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Jos\u00E9 Valim&quot;.freeze, &quot;Rafael Mendon\u00E7a Fran\u00E7a&quot;.freeze" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="https://github.com/activeadmin/inherited_resources" />
+            <option name="summary" value="Inherited Resources speeds up development by making your controllers inherit all restful actions so you just have to focus on what is important." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="responders" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="7.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="7.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.6" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="has_scope" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="inherited_resources" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.13.1" />
+        <option name="version" value="1.13.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.13.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.13.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/inherited_resources-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.7, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -45386,6 +46112,88 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.4.0/test" />
       </excluded>
     </library>
+    <library name="jquery-rails (v4.6.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Andr\u00E9 Arko&quot;.freeze" />
+            <option name="email" value="&quot;andre@arko.net&quot;.freeze" />
+            <option name="homepage" value="https://github.com/rails/jquery-rails" />
+            <option name="summary" value="Use jQuery with Rails 4+" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="4.2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.14" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="thor" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="3" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rails-dom-testing" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="jquery-rails" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0" />
+        <option name="version" value="4.6.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/jquery-rails-4.6.0/test" />
+      </excluded>
+    </library>
     <library name="jquery-ui-rails (v6.0.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -45736,6 +46544,96 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.0/gemfiles" />
       </excluded>
     </library>
+    <library name="kaminari (v1.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Akira Matsuda&quot;.freeze, &quot;Yuki Nishijima&quot;.freeze, &quot;Zachary Scott&quot;.freeze, &quot;Hiroshi Shibata&quot;.freeze" />
+            <option name="email" value="&quot;ronnie@dio.jp&quot;.freeze" />
+            <option name="homepage" value="https://github.com/kaminari/kaminari" />
+            <option name="summary" value="A pagination engine plugin for Rails 4+ and other modern frameworks" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="4.1.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="1.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari-core" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="1.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari-actionview" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="1.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari-activerecord" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="kaminari" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2" />
+        <option name="version" value="1.2.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-1.2.2/gemfiles" />
+      </excluded>
+    </library>
     <library name="kaminari-actionview (v1.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -45791,6 +46689,61 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-actionview-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Akira Matsuda&quot;.freeze" />
+            <option name="email" value="&quot;ronnie@dio.jp&quot;.freeze" />
+            <option name="homepage" value="https://github.com/kaminari/kaminari" />
+            <option name="summary" value="Kaminari Action View adapter" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="1.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari-core" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionview" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="kaminari-actionview" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-actionview-1.2.2" />
+        <option name="version" value="1.2.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-actionview-1.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-actionview-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-activerecord (v1.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -45844,6 +46797,61 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-activerecord-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Akira Matsuda&quot;.freeze" />
+            <option name="email" value="&quot;ronnie@dio.jp&quot;.freeze" />
+            <option name="homepage" value="https://github.com/kaminari/kaminari" />
+            <option name="summary" value="Kaminari Active Record adapter" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="=" />
+                    <option name="version" value="1.2.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="kaminari-core" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="kaminari-activerecord" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-activerecord-1.2.2" />
+        <option name="version" value="1.2.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-activerecord-1.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-activerecord-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -45906,6 +46914,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/kaminari-core-1.2.0/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/kaminari-core-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/kaminari-core-1.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.2.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Akira Matsuda&quot;.freeze" />
+            <option name="email" value="&quot;ronnie@dio.jp&quot;.freeze" />
+            <option name="homepage" value="https://github.com/kaminari/kaminari" />
+            <option name="summary" value="Kaminari's core pagination library" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="kaminari-core" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2" />
+        <option name="version" value="1.2.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kaminari-core-1.2.2/config" />
       </SOURCES>
     </library>
     <library name="kramdown (v2.4.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -53979,6 +55018,87 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-2.3.0/polyamorous" />
       </excluded>
     </library>
+    <library name="ransack (v3.0.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Ernie Miller&quot;.freeze, &quot;Ryan Bigg&quot;.freeze, &quot;Jon Atack&quot;.freeze, &quot;Sean Carroll&quot;.freeze, &quot;David Rodr\u00EDguez&quot;.freeze" />
+            <option name="email" value="&quot;ernie@erniemiller.org&quot;.freeze, &quot;radarlistener@gmail.com&quot;.freeze, &quot;jonnyatack@gmail.com&quot;.freeze, &quot;sfcarroll@gmail.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/activerecord-hackery/ransack" />
+            <option name="summary" value="Object-based searching for Active Record." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="6.0.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activerecord" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="6.0.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="i18n" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="ransack" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1" />
+        <option name="version" value="3.0.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/bug_report_templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/bug_report_templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ransack-3.0.1/bug_report_templates" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.10.4, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -55858,6 +56978,61 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/responders-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v3.1.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Jos\u00E9 Valim&quot;.freeze" />
+            <option name="email" value="heartcombo@googlegroups.com" />
+            <option name="homepage" value="https://github.com/heartcombo/responders" />
+            <option name="summary" value="A set of Rails responders to dry up your application" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="railties" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="responders" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/responders-3.1.1" />
+        <option name="version" value="3.1.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/responders-3.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/responders-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v2.0.2, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -58996,6 +60171,38 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/ruby2_keywords-0.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="ruby2_keywords (v0.0.5, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Nobuyoshi Nakada&quot;.freeze" />
+            <option name="email" value="N/A" />
+            <option name="homepage" value="https://github.com/ruby/ruby2_keywords" />
+            <option name="summary" value="Shim library for Module#ruby2_keywords" />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="ruby2_keywords" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5" />
+        <option name="version" value="0.0.5" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5/logs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5/logs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby2_keywords-0.0.5/logs" />
+      </excluded>
+    </library>
     <library name="ruby_parser (v3.14.2, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -62010,6 +63217,73 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sprockets-rails-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.4.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Joshua Peek&quot;.freeze" />
+            <option name="email" value="josh@joshpeek.com" />
+            <option name="homepage" value="https://github.com/rails/sprockets-rails" />
+            <option name="summary" value="Sprockets Rails integration" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="3.0.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="sprockets" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="actionpack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="5.2" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="activesupport" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="sprockets-rails" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sprockets-rails-3.4.2" />
+        <option name="version" value="3.4.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sprockets-rails-3.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sprockets-rails-3.4.2/lib" />
       </SOURCES>
     </library>
     <library name="strip_attributes (v1.11.0, rbenv: 2.6.7) [gem]" type="rubylib">
