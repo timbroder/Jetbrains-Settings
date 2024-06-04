@@ -62930,6 +62930,97 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/sorcery-0.15.0/.github" />
       </excluded>
     </library>
+    <library name="sorcery (v0.15.0@6fa321, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Noam Ben Ari&quot;.freeze, &quot;Kir Shatrov&quot;.freeze, &quot;Grzegorz Witek&quot;.freeze, &quot;Chase Gilliam&quot;.freeze, &quot;Josh Buker&quot;.freeze" />
+            <option name="email" value="&quot;crypto@joshbuker.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/Sorcery/sorcery" />
+            <option name="summary" value="Magical authentication for Rails applications" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="bcrypt" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.4" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.4.4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.8.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth2" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="git" value="true" />
+        <option name="name" value="sorcery" />
+        <option name="ref" value="6fa3214c090a" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a" />
+        <option name="version" value="0.15.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/bundler/gems/sorcery-6fa3214c090a/gemfiles" />
+      </excluded>
+    </library>
     <library name="sorcery (v0.16.3, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
