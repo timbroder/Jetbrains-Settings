@@ -49773,6 +49773,66 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/oauth-0.5.4/bin" />
       </excluded>
     </library>
+    <library name="oauth (v0.6.2, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Pelle Braendgaard&quot;.freeze, &quot;Blaine Cook&quot;.freeze, &quot;Larry Halff&quot;.freeze, &quot;Jesse Clark&quot;.freeze, &quot;Jon Crosby&quot;.freeze, &quot;Seth Fitzsimmons&quot;.freeze, &quot;Matt Sanford&quot;.freeze, &quot;Aaron Quint&quot;.freeze, &quot;Peter Boling&quot;.freeze" />
+            <option name="email" value="oauth-ruby@googlegroups.com" />
+            <option name="homepage" value="https://github.com/oauth-xx/oauth-ruby" />
+            <option name="summary" value="OAuth Core Ruby implementation" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="snaky_hash" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="version_gem" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="oauth" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2" />
+        <option name="version" value="0.6.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth-0.6.2/bin" />
+      </excluded>
+    </library>
     <library name="oauth2 (v1.4.4, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -49988,6 +50048,121 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/oauth2-1.4.4/gemfiles" />
       </excluded>
+    </library>
+    <library name="oauth2 (v2.0.9, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Peter Boling&quot;.freeze, &quot;Erik Michaels-Ober&quot;.freeze, &quot;Michael Bleigh&quot;.freeze" />
+            <option name="email" value="&quot;peter.boling@gmail.com&quot;.freeze" />
+            <option name="homepage" value="https://gitlab.com/oauth-xx/oauth2" />
+            <option name="summary" value="A Ruby wrapper for the OAuth 2.0 protocol." />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.17.3" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="3.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="faraday" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="3.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="jwt" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.5" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="multi_xml" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.2" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&lt;" />
+                    <option name="version" value="4" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="rack" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="snaky_hash" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="version_gem" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="oauth2" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth2-2.0.9" />
+        <option name="version" value="2.0.9" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth2-2.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/oauth2-2.0.9/lib" />
+      </SOURCES>
     </library>
     <library name="octokit (v4.22.0, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
@@ -62503,6 +62678,65 @@
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/slack-notifier-2.3.2/spec" />
       </excluded>
     </library>
+    <library name="snaky_hash (v2.0.1, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Peter Boling&quot;.freeze" />
+            <option name="email" value="&quot;peter.boling@gmail.com&quot;.freeze, &quot;oauth-ruby@googlegroups.com&quot;.freeze" />
+            <option name="homepage" value="https://gitlab.com/oauth-xx/snaky_hash" />
+            <option name="summary" value="A very snaky hash" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="hashie" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.1" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="1.1.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="version_gem" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="snaky_hash" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/snaky_hash-2.0.1" />
+        <option name="version" value="2.0.1" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/snaky_hash-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/snaky_hash-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sorbet-runtime (v0.5.10461, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="additionalInfo">
@@ -62694,6 +62928,173 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/sorcery-0.15.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/3.0.4/lib/ruby/gems/3.0.0/gems/sorcery-0.15.0/.github" />
+      </excluded>
+    </library>
+    <library name="sorcery (v0.16.3, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Noam Ben Ari&quot;.freeze, &quot;Kir Shatrov&quot;.freeze, &quot;Grzegorz Witek&quot;.freeze, &quot;Chase Gilliam&quot;.freeze, &quot;Josh Buker&quot;.freeze" />
+            <option name="email" value="&quot;crypto@joshbuker.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/Sorcery/sorcery" />
+            <option name="summary" value="Magical authentication for Rails applications" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="bcrypt" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="0.5" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.5.5" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.8.0" />
+                  </Bound>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="1.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth2" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="sorcery" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3" />
+        <option name="version" value="0.16.3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.16.3/gemfiles" />
+      </excluded>
+    </library>
+    <library name="sorcery (v0.17.0, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Noam Ben Ari&quot;.freeze, &quot;Kir Shatrov&quot;.freeze, &quot;Grzegorz Witek&quot;.freeze, &quot;Chase Gilliam&quot;.freeze, &quot;Josh Buker&quot;.freeze" />
+            <option name="email" value="&quot;crypto@joshbuker.com&quot;.freeze" />
+            <option name="homepage" value="https://github.com/Sorcery/sorcery" />
+            <option name="summary" value="Magical authentication for Rails applications" />
+          </AdditionalInfo>
+        </option>
+        <option name="dependencies">
+          <list>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="3.1" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="bcrypt" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="&gt;=" />
+                    <option name="version" value="0.6" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth" />
+            </Dependency>
+            <Dependency>
+              <option name="bounds">
+                <list>
+                  <Bound>
+                    <option name="operator" value="~&gt;" />
+                    <option name="version" value="2.0" />
+                  </Bound>
+                </list>
+              </option>
+              <option name="doRequire" value="true" />
+              <option name="name" value="oauth2" />
+            </Dependency>
+          </list>
+        </option>
+        <option name="name" value="sorcery" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0" />
+        <option name="version" value="0.17.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.devcontainer" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.devcontainer" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/sorcery-0.17.0/.devcontainer" />
       </excluded>
     </library>
     <library name="spreadsheet (v1.2.8, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -66398,6 +66799,33 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/vault-rails-0.6.0/spec" />
       </excluded>
+    </library>
+    <library name="version_gem (v1.1.4, rbenv: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="additionalInfo">
+          <AdditionalInfo>
+            <option name="authors" value="&quot;Peter Boling&quot;.freeze" />
+            <option name="email" value="&quot;peter.boling@gmail.com&quot;.freeze, &quot;oauth-ruby@googlegroups.com&quot;.freeze" />
+            <option name="homepage" value="https://gitlab.com/oauth-xx/version_gem" />
+            <option name="summary" value="Enhance your VERSION! Sugar for Version modules." />
+          </AdditionalInfo>
+        </option>
+        <option name="name" value="version_gem" />
+        <option name="requirePaths">
+          <list>
+            <option value="lib" />
+          </list>
+        </option>
+        <option name="url" value="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/version_gem-1.1.4" />
+        <option name="version" value="1.1.4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/version_gem-1.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/version_gem-1.1.4/lib" />
+      </SOURCES>
     </library>
     <library name="view_component (v2.25.1, rbenv: 2.6.7) [gem]" type="rubylib">
       <properties>
