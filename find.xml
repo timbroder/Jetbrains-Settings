@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Selected files &amp; directories" />
+    <option name="defaultScopeName" value="Selected files &amp; directories" />
+    <option name="SEARCH_SCOPE" value="Selected files &amp; directories" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,8 @@
     <mask>*.haml</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.rb</mask>
     <mask>*.rake</mask>
+    <mask>previous_changes</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
