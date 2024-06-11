@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.erb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,12 +13,12 @@
     <mask>*.jbuilder</mask>
     <mask>*.gemspec</mask>
     <mask>*.scss</mask>
-    <mask>*.html.erb</mask>
     <mask>*.haml</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.rake</mask>
     <mask>previous_changes</mask>
     <mask>*.rb</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
