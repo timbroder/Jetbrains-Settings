@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="monitoring" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
