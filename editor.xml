@@ -2,4 +2,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
